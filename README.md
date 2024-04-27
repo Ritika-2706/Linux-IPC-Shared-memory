@@ -56,6 +56,7 @@ int main()
 ## OUTPUT
 ![image](https://github.com/Ritika-2706/Linux-IPC-Shared-memory/assets/93427238/ec8d2ea1-aecb-43c2-9c46-3b76a5d8b47b)
 
+![image](https://github.com/Ritika-2706/Linux-IPC-Shared-memory/assets/93427238/05bc9ed0-cdc0-48ff-9af5-9ed205a7963a)
 
 
 
